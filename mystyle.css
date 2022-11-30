@@ -1,0 +1,20 @@
+body{
+    font-family: system-ui,'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    color:white
+}
+h1{
+    font-size: 48px;
+    margin: 10px
+}
+h3{
+    font-size: 36px;
+    margin: 10px
+}
+p{
+    padding-left: 80px;
+    padding-right: 80px;
+}
+a{
+    color:rgb(100, 127, 179)
+}
